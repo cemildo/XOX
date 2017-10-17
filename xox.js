@@ -1,7 +1,7 @@
 
 /**
  * 3 e 3 luk bir array
- * her bir karedeki datayi tutmak icin
+ * her bir karedeki datayi tutmak icin...
  * ilk basta her bir karenin icine bosluklar atiyoruz ("")
  */
 var data = [

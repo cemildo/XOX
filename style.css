@@ -1,0 +1,44 @@
+table{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+td{
+  height: 100px;
+  width:100px;
+  background: green;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  cursor: pointer;
+}
+
+#result{
+  font-weight: 20px;
+  display: inline-block;
+  background: #efefef;
+  color: #3e3e3e;
+  height: 20px;
+  text-align: center;
+  padding: 8px 8px;
+}
+
+#container > div{
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#container{
+  display: flex;
+  justify-content: center;
+}
+
+#new-game{
+  height:40px;
+  background: green;
+  color: white;
+  font-size: 24px;
+}
